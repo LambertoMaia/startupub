@@ -7,6 +7,15 @@ app.get('/', (req, res) => {
   res.send('Pedro burro!')
 })
 
+app.get('/users', (req, res) => {
+  // json
+  res.json({
+    name: 'John',
+    age: 30,
+    city: 'New York'
+  })
+})
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
