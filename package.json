@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LambertoMaia/startupub/issues"
   },
-  "homepage": "https://github.com/LambertoMaia/startupub#readme"
+  "homepage": "https://github.com/LambertoMaia/startupub#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
