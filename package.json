@@ -1,0 +1,19 @@
+{
+  "name": "startupub",
+  "version": "1.0.0",
+  "description": "Startup Unibra",
+  "main": "index.js",
+  "scripts": {
+    "test": ".test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LambertoMaia/startupub.git"
+  },
+  "author": "Lamberto maia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LambertoMaia/startupub/issues"
+  },
+  "homepage": "https://github.com/LambertoMaia/startupub#readme"
+}
