@@ -1,6 +1,7 @@
 {
   "name": "startupub",
   "version": "1.0.0",
+  "type": "module",
   "description": "Startup Unibra",
   "main": "index.js",
   "scripts": {
